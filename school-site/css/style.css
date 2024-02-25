@@ -104,8 +104,6 @@ html {
 h1, h2 {
     font-family: josefinslab, Georgia, serif;
     letter-spacing: 0.125rem;
-
-
 }
 
 h1 {
@@ -138,8 +136,6 @@ figcaption {
     font-size: 0.75rem;
     margin-bottom: 2rem;
 }
-
-
 
 /* Link Styling */
 
@@ -201,10 +197,6 @@ nav a:active {
     color: #fff;
     background-color: #000;
 }
-
-
-
-
 /* Footer Styles */
 
 footer {
